@@ -8,7 +8,10 @@ public static void main(String[] args) {
 }
 public void generic() {
 	System.out.println("I am generic");
+
 	System.out.println("Hello world");
+
+	System.out.println("I am a generic method ........");
 }
 	
 }
